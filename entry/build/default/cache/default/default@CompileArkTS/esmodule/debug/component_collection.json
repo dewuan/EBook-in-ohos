@@ -1,0 +1,16 @@
+{
+  "entry\\src\\main\\ets\\entryability\\EntryAbility.ets": [
+    "If"
+  ],
+  "entry\\src\\main\\ets\\pages\\Index.ets": [
+    "Column",
+    "Row",
+    "Text",
+    "Blank",
+    "Scroll",
+    "Button",
+    "Toggle",
+    "Checkbox",
+    "If"
+  ]
+}

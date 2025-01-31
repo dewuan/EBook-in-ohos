@@ -1,0 +1,13 @@
+{
+  "entry\\src\\main\\ets\\entrybackupability\\EntryBackupAbility.ets": [
+    "ohos.hilog",
+    "ohos.application.BackupExtensionAbility"
+  ],
+  "entry\\src\\main\\ets\\entryability\\EntryAbility.ets": [
+    "ohos.app.ability.ConfigurationConstant",
+    "ohos.app.ability.UIAbility",
+    "ohos.app.ability.AbilityConstant",
+    "ohos.app.ability.Want",
+    "ohos.hilog"
+  ]
+}
