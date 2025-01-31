@@ -33,6 +33,6 @@
 
 ### 安装
 ```bash
-git clone https://github.com/yourusername/hm-ebook-reader.git
+git clone https://github.com/dewuan/EBook-in-ohos.git
 cd hm-ebook-reader
 # 使用 DevEco Studio 打开项目
